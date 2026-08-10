@@ -53,8 +53,10 @@
 
 📫 𝓒𝓸𝓷𝓷𝓮𝓬𝓽 𝓦𝓲𝓽𝓱 𝓜𝓮
 
-- 💻 GitHub: "nirmalkumarptm-blip"
-- 📧 Email: "nirmalkumarptm@gmail.com"
+✦ 💻 𝓖𝓲𝓽𝓗𝓾𝓫 ✦
+: "nirmalkumarptm-blip"
+✦ 📧 𝓔𝓶𝓪𝓲𝓵 ✦
+: "nirmalkumarptm@gmail.com"
 
 ---
 
