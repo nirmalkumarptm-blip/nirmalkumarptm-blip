@@ -1,16 +1,63 @@
-## Hi there 👋
+👋 Hi, I'm Nirmal!
 
-<!--
-**nirmalkumarptm-blip/nirmalkumarptm-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 BCA Graduate | Aspiring Developer | Python Learner
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! 🚀
+I'm interested in software development, web development, Python, and building useful projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🛠️ Languages & Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
+</p>---
+
+🚀 Currently Learning
+
+- 🐍 Python
+- 🌐 Web Development
+- 🗄️ SQL & Databases
+- ⚡ JavaScript
+- 🔧 Git & GitHub
+
+---
+
+📌 Featured Projects
+
+🍳 Recipe Finder Website
+
+A website that helps users find recipes based on available ingredients.
+
+🧠 Nimi Quizzes
+
+A fun quiz website with interesting and funny questions.
+
+🧮 Calculator
+
+A simple calculator built using HTML, CSS and JavaScript.
+
+---
+
+📊 GitHub Stats
+
+"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+📫 Connect With Me
+
+- 💻 GitHub: "YOUR_USERNAME"
+- 📧 Email: "YOUR_EMAIL"
+
+---
+
+⭐ Thanks for visiting my profile!
+
+Keep Learning • Keep Building • Keep Growing 🚀
