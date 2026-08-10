@@ -53,8 +53,8 @@ A simple calculator built using HTML, CSS and JavaScript.
 
 📫 Connect With Me
 
-- 💻 GitHub: "YOUR_USERNAME"
-- 📧 Email: "YOUR_EMAIL"
+- 💻 GitHub: "nirmalkumarptm-blip"
+- 📧 Email: "nirmalkumarptm@gmail.com"
 
 ---
 
