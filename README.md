@@ -52,15 +52,32 @@
 
 ---
 
-📫 𝓒𝓸𝓷𝓷𝓮𝓬𝓽 𝓦𝓲𝓽𝓱 𝓜𝓮
+<h3 align="center">🤝Connect With Me</h3>
 
-✦ 💻 𝓖𝓲𝓽𝓗𝓾𝓫 ✦
-: "https://github.com/nirmalkumarptm-blip"
-✦ 📧 𝓔𝓶𝓪𝓲𝓵 ✦
-: "nirmalkumarptm@gmail.com"
+<p align="center">
+ <a href="https://github.com/nirmalkumarptm-blip" target="_blank">
+  <img
+src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+ </a>
+ <a href="mailto:nirmalkumarptm@gmail.com">
+  <img
+src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+ </a>
+</p>
 
----
+<br>
 
-✦ ─── ⭐ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓿𝓲𝓼𝓲𝓽𝓲𝓷𝓰 𝓶𝔂 𝓹𝓻𝓸𝓯𝓲𝓵𝓮! ⭐ ─── ✦
+<p align="center">
+ <i>Thanks for visiting my profile🚀</i>
+</p>
 
-✨ 𝓚𝓮𝓮𝓹 𝓛𝓮𝓪𝓻𝓷𝓲𝓷𝓰 • 𝓚𝓮𝓮𝓹 𝓑𝓾𝓲𝓵𝓭𝓲𝓷𝓰 • 𝓚𝓮𝓮𝓹 𝓖𝓻𝓸𝔀𝓲𝓷𝓰 🚀
+<p align="center">
+ ✨Feel free to explore my repositories and projects.
+</p>
+
+<p align="center">
+ <b>Made with 💥 by Nirmal</b>
+</p> 
+  
+
+
