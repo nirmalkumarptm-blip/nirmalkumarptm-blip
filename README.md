@@ -46,9 +46,17 @@
 
 ---
 
-📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀
+<h2 align="center">📊GitHub Stats</h2>
 
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=nirmalkumarptm-blip&show_icons=true&theme=tokyonight)
+<p align="center">
+ <img
+src="https://github-readme-stats.vercel.app/api?username=nirmalkumarptm-blip&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+ <img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmalkumarptm-blip&layout=compact&theme=tokyonight&hide_border=true"/>
+</p> 
 
 ---
 
