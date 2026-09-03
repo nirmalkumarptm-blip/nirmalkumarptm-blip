@@ -29,6 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
 </p>
+
 ---
 
 <h3>🌱 Currently Learning</h3>
@@ -44,6 +45,7 @@
 <p align="center">
  <i>"Learning something new every day. Build something useful. Keep improving."</i>
 </p>
+
 ---
 
 📌 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐝 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
