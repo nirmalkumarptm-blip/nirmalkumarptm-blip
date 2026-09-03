@@ -1,8 +1,8 @@
 <h2 align="center">👋Hi, I'm Nirmal!</h2>
 
 <p align="center">
-  <b>💻BCA Graduate</b> &nbsp;•&nbsp;
-  <b>🚀Aspiring Software Developer</b> &nbsp;•&nbsp;
+  <b>💻BCA Graduate</b> &nbsp;|&nbsp;
+  <b>🚀Aspiring Software Developer</b> &nbsp;|&nbsp;
   <b>🐍Python Learner</b>
  </p>
 
