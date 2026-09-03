@@ -1,11 +1,21 @@
-👋 𝑯𝒊, 𝑰'𝒎 𝑵𝒊𝒓𝒎𝒂𝒍!
+<h2 align="center">👋Hi, I'm Nirmal!</h2>
 
-💻 𝘽𝘾𝘼 𝙂𝙧𝙖𝙙𝙪𝙖𝙩𝙚 | 𝘼𝙨𝙥𝙞𝙧𝙞𝙣𝙜 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 | 🐍 𝙋𝙮𝙩𝙝𝙤𝙣 𝙇𝙚𝙖𝙧𝙣𝙚𝙧
+<p align="center">
+  <b>💻BCA Graduate</b> &nbsp;•&nbsp;
+  <b>🚀Aspiring Software Developer</b> &nbsp;•&nbsp;
+  <b>🐍Python Learner</b>
+ </p>
 
-𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗺𝘆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗽𝗿𝗼𝗳𝗶𝗹𝗲! 🚀
+ <p align="center">
+   Welcome to my GitHub profile!
+ </p>
 
-𝙄'𝙢 𝙞𝙣𝙩𝙚𝙧𝙚𝙨𝙩𝙚𝙙 𝙞𝙣 𝙨𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩, 𝙬𝙚𝙗 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩, 𝙋𝙮𝙩𝙝𝙤𝙣, 𝙖𝙣𝙙 𝙗𝙪𝙞𝙡𝙙𝙞𝙣𝙜 𝙪𝙨𝙚𝙛𝙪𝙡 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨.
-
+ <p align="center">
+   I'm passionate about <b>software development, web development, Python, and building practical digital solutions.</b>
+   <br>
+   I enjoy learning new technologies, experimenting with ideas, and turning them into useful projects.
+ </p>   
+ 
 ---
 
 🛠️ 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤 & 𝕋𝕠𝕠𝕝𝕤
@@ -18,16 +28,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
-</p>---
+</p>
+---
 
-🚀 𝘾𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜
+<h3>🌱 Currently Learning</h3>
 
-╰┈➤🐍 𝑷𝒚𝒕𝒉𝒐𝒏
-╰┈➤🌐 𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕
-╰┈➤🗄️ 𝑺𝑸𝑳 & 𝑫𝒂𝒕𝒂𝒃𝒂𝒔𝒆𝒔
-╰┈➤⚡ 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕
-╰┈➤🔧 𝑮𝒊𝒕 & 𝑮𝒊𝒕𝑯𝒖𝒃
+-🐍 Learning and improving my **Python** skills
+-🌐 Exploring **Web Development**
+-💡 Building practical and creative projects
+-📚 Continuously learning new technologies
+-🎯 Working towards becoming a **Professional Software Developer**
 
+<h3>⚡My Mindset</h3>
+
+<p align="center">
+ <i>"Learning something new every day. Build something useful. Keep improving."</i>
+</p>
 ---
 
 📌 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐝 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
