@@ -32,7 +32,7 @@
 
 ---
 
-<h3 align="center">🌱 Currently Learning</h3>
+<h3>🌱 Currently Learning</h3>
 
 -🐍 Learning and improving my **Python** skills
 -🌐 Exploring **Web Development**
