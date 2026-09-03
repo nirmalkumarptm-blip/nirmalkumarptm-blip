@@ -61,11 +61,11 @@ src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&
  </a>
  <a href="mailto:nirmalkumarptm@gmail.com">
   <img
-src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=black"/>
+src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
  </a>
  <a href="https://www.instagram.com/nirmalkumarptm/" target="_blank">
    <img
-src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=purple"/>
+src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
  </a> 
 </p>
 
