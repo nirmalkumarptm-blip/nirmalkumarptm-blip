@@ -46,20 +46,6 @@
 
 ---
 
-<h2 align="center">📊GitHub Stats</h2>
-
-<p align="center">
- <img
-src="https://github-readme-stats.vercel.app/api?username=nirmalkumarptm-blip&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
- <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmalkumarptm-blip&layout=compact&theme=tokyonight&hide_border=true"/>
-</p> 
-
----
-
 <h3 align="center">🤝Connect With Me</h3>
 
 <p align="center">
