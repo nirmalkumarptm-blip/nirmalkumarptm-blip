@@ -48,74 +48,23 @@
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+📌 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐝 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
 
-<div align="center">
+    🍳 𝙍𝙚𝙘𝙞𝙥𝙚 𝙁𝙞𝙣𝙙𝙚𝙧 𝙒𝙚𝙗𝙨𝙞𝙩𝙚
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-
-      <h3>🍳 Recipe Finder</h3>
-
-      <p>
-        🍽️ Discover delicious recipes<br>
-        using the ingredients you<br>
-        already have.
-      </p>
-
-      <p>
-        <code>HTML</code>
-        <code>CSS</code>
-        <code>JavaScript</code>
-      </p>
-
-    </td>
-
-    <td align="center" width="33%">
-
-      <h3>🧠 Nimi Quizzes</h3>
-
-      <p>
-        🧠 A fun quiz website filled<br>
-        with interesting and<br>
-        funny questions! ✨
-      </p>
-
-      <p>
-        <code>HTML</code>
-        <code>CSS</code>
-        <code>JavaScript</code>
-      </p>
-
-    </td>
-
-    <td align="center" width="33%">
-
-      <h3>🧮 Calculator</h3>
-
-      <p>
-        🧮 A simple calculator<br>
-        built with HTML, CSS<br>
-        & JavaScript! ✨
-      </p>
-
-      <p>
-        <code>HTML</code>
-        <code>CSS</code>
-        <code>JavaScript</code>
-      </p>
-
-    </td>
-  </tr>
-</table>
+╰┈➤ 🍽️ ᴅɪꜱᴄᴏᴠᴇʀ ᴅᴇʟɪᴄɪᴏᴜꜱ ʀᴇᴄɪᴘᴇꜱ ᴜꜱɪɴɢ ᴛʜᴇ ɪɴɢʀᴇᴅɪᴇɴᴛꜱ ʏᴏᴜ ᴀʟʀᴇᴀᴅʏ ʜᴀᴠᴇ.
 
 <br>
 
-<i>💻 Code • Create • Learn • Repeat 🚀</i>
+    🧠 𝙉𝙞𝙢𝙞 𝙌𝙪𝙞𝙯𝙯𝙚𝙨
 
-</div>
+╰┈➤ 🧠 ᴀ ꜰᴜɴ ǫᴜɪᴢ ᴡᴇʙꜱɪᴛᴇ ꜰɪʟʟᴇᴅ ᴡɪᴛʜ ɪɴᴛᴇʀᴇꜱᴛɪɴɢ ᴀɴᴅ ꜰᴜɴɴʏ ǫᴜᴇꜱᴛɪᴏɴꜱ! ✨
 
+<br>
+
+    🧮 𝘾𝙖𝙡𝙘𝙪𝙡𝙖𝙩𝙤𝙧
+
+╰┈➤ 🧮 ᴀ ꜱɪᴍᴘʟᴇ ᴄᴀʟᴄᴜʟᴀᴛᴏʀ ʙᴜɪʟᴛ ᴡɪᴛʜ ʜᴛᴍʟ, ᴄꜱꜱ & ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ! ✨
 
 ---
 
