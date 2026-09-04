@@ -48,28 +48,53 @@
 
 ---
 
-<h2>📌 Featured Projects</h2>
+<h2 align="center">📌Featured Projects</h2>
 
-<table>
-  <tr>
-    <td>   
-      <h3>🔎Recipe Finder Website</h3>
-       <P>Discover delicious recipes using the ingredients you aldready have.</P>
-   </td>
-  </tr>
-  <tr>
-    <td>    
-      <h3>📲Nimi Quizzes</h3>
-      <p>A fun quiz website filled with interesting and funny questions! ✨</p>      
-    </td>
-  </tr>  
-  <tr>
-    <td>      
-      <h3>🧮Calculator</h3>
-      <p>A simple calculator built with HTML,CSS & JavaScript. ✨</p>      
-    </td>
-  </tr>
-</table>
+<p alig="center">
+ <i>A collection of projects I've built while learning, experimenting, and creating.</i>
+</p>
+
+<br>
+
+<table align="center">
+<tr>
+<td width="50%"align="center">
+
+<h3>🍳Recipe Finder</h3>
+
+<p>
+🔎Find delicious recipes based on the ingredients you already have. 
+</p>
+
+<p>
+<img
+src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img
+src="https://img.shields.io/badge/CSS-1572B6?style=flat-aquare&logo=css3&logoColor=white">
+<img
+src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+</p>
+
+</td>
+
+<td width="50%"align="center">
+
+<h3>🧠Nimi Quizzes</h3>
+
+<p>
+📲Fun and interesting quizzes with funny questions and challenges.✨
+</p>
+
+<p>
+<img
+src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img
+src="https://img.shields.io/badge/CSS-1572B6?style=flat-aquare&logo=css3&logoColor=white">
+<img
+src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+</p>
+</td>
+</tr>
 
 ---
 
