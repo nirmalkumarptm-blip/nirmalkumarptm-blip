@@ -52,29 +52,21 @@
 
 <table>
   <tr>
-    <td>
-      
+    <td>   
       <h3>🔎Recipe Finder Website</h3>
        <P>Discover delicious recipes using the ingredients you aldready have.</P>
-       
    </td>
   </tr>
-  
   <tr>
-    <td>
-      
+    <td>    
       <h3>📲Nimi Quizzes</h3>
-      <p>A fun quiz website filled with interesting and funny questions! ✨</p>
-      
+      <p>A fun quiz website filled with interesting and funny questions! ✨</p>      
     </td>
-  </tr>
-  
+  </tr>  
   <tr>
-    <td>
-      
+    <td>      
       <h3>🧮Calculator</h3>
-      <p>A simple calculator built with HTML,CSS & JavaScript. ✨</p>
-      
+      <p>A simple calculator built with HTML,CSS & JavaScript. ✨</p>      
     </td>
   </tr>
 </table>
