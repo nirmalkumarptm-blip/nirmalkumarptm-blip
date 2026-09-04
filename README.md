@@ -68,7 +68,7 @@
 
 ---
 
-<h3 align="center">🤝Connect With Me</h3>
+<h2 align="center">🤝Connect With Me</h2>
 
 <p align="center">
  <a href="https://github.com/nirmalkumarptm-blip" target="_blank">
