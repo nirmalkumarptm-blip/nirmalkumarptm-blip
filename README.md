@@ -68,7 +68,7 @@
 
 ---
 
-<h2 align="center">🤝Connect With Me</h2>
+<h3 align="center">🤝Connect With Me</h3>
 
 <p align="center">
  <a href="https://github.com/nirmalkumarptm-blip" target="_blank">
@@ -96,8 +96,8 @@ src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=inst
 </p>
 
 <p align="center">
- <b>Made with 💥 by Nirmal</b>
-</p> 
+ <code>Build with💻 & ♨️ by Nirmal</code>
+</p>
   
 
 
