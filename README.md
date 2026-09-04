@@ -48,23 +48,28 @@
 
 ---
 
-📌 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐝 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
+<h2>📌 Featured Projects</h2>
 
-    🍳 𝙍𝙚𝙘𝙞𝙥𝙚 𝙁𝙞𝙣𝙙𝙚𝙧 𝙒𝙚𝙗𝙨𝙞𝙩𝙚
-
-╰┈➤ 🍽️ ᴅɪꜱᴄᴏᴠᴇʀ ᴅᴇʟɪᴄɪᴏᴜꜱ ʀᴇᴄɪᴘᴇꜱ ᴜꜱɪɴɢ ᴛʜᴇ ɪɴɢʀᴇᴅɪᴇɴᴛꜱ ʏᴏᴜ ᴀʟʀᴇᴀᴅʏ ʜᴀᴠᴇ.
-
-<br>
-
-    🧠 𝙉𝙞𝙢𝙞 𝙌𝙪𝙞𝙯𝙯𝙚𝙨
-
-╰┈➤ 🧠 ᴀ ꜰᴜɴ ǫᴜɪᴢ ᴡᴇʙꜱɪᴛᴇ ꜰɪʟʟᴇᴅ ᴡɪᴛʜ ɪɴᴛᴇʀᴇꜱᴛɪɴɢ ᴀɴᴅ ꜰᴜɴɴʏ ǫᴜᴇꜱᴛɪᴏɴꜱ! ✨
-
-<br>
-
-    🧮 𝘾𝙖𝙡𝙘𝙪𝙡𝙖𝙩𝙤𝙧
-
-╰┈➤ 🧮 ᴀ ꜱɪᴍᴘʟᴇ ᴄᴀʟᴄᴜʟᴀᴛᴏʀ ʙᴜɪʟᴛ ᴡɪᴛʜ ʜᴛᴍʟ, ᴄꜱꜱ & ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ! ✨
+<table>
+  <tr>
+    <td>
+      <h3>🔎Recipe Finder Website</h3>
+       <P>Discover delicious recipes using the ingredients you aldready have.</P>
+   </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>📲Nimi Quizzes</h3>
+      <p>A fun quiz website filled with interesting and funny questions! ✨</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🧮Calculator</h3>
+      <p>A simple calculator built with HTML,CSS & JavaScript. ✨</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
