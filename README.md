@@ -50,7 +50,7 @@
 
 <h2 align="center">📌Featured Projects</h2>
 
-<p alig="center">
+<p align="center">
  <i>A collection of projects I've built while learning, experimenting, and creating.</i>
 </p>
 
@@ -116,7 +116,7 @@ src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javas
 
 </td>
 
-<td width="50%"lign="center">
+<td width="50%"align="center">
 
 <h3>🎵Music Player</h3>
 
@@ -128,7 +128,7 @@ src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javas
 <img
 src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img
-src="https://img.shields.io/badge/CSS-1572B6?style=flat-aquare&logo=css3&logoColor=white">
+src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
 <img
 src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 </p>
